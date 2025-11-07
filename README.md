@@ -1,4 +1,4 @@
-# 💻 Chromebook Sales Forecasting Dashboard
+# 💻 Sales Forecasting Dashboard
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mr-adonis-jimenez-chromebook-sales-forecast-dashboard.streamlit.app)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/mr-adonis-jimenez/chromebook-sales-forecast-dashboard)
